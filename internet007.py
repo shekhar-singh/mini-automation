@@ -12,5 +12,6 @@ org=data['org']
 city = data['city']
 ctry=data['country']
 reg=data['region']
-
-print org,reg,ctry,city,IP
+print 'Your IP detail\n '
+print 'IP : {4} \nRegion : {1} \nCountry : {2} \nCity : {3} \nOrg : {0}'.format(org,reg,ctry,city,IP)
+#print org,reg,ctry,city,IP
