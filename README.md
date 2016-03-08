@@ -8,3 +8,6 @@ python cricscore.py
 
 >
 python internet007.py
+
+>
+python3 ipcalc.py
