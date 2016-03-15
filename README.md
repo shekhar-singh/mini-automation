@@ -11,3 +11,6 @@ python internet007.py
 
 >
 python3 ipcalc.py
+
+>
+python3 hackernews.py
