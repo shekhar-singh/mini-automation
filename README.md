@@ -14,3 +14,6 @@ python3 ipcalc.py
 
 >
 python3 hackernews.py
+
+>
+python todonotify.py
